@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "GRACIAS POR NADA",
+  "base_artist": "Bad Bunny",
+  "createdAt": "2026-02-24T13:59:25.553971Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gracias por Nada",
+      "artist": "Little Jesus",
+      "has_synced": true,
+      "path": "select/01_Gracias_por_Nada_Little_Jesus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GRACIAS POR NADA",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/02_GRACIAS_POR_NADA_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gracias por Nada",
+      "artist": "Reik",
+      "has_synced": true,
+      "path": "select/03_Gracias_por_Nada_Reik.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Bunny - GRACIAS POR NADA (Letra/Lyrics)",
+      "artist": "Monday",
+      "has_synced": true,
+      "path": "select/04_Bad_Bunny_-_GRACIAS_POR_NADA_(Letra_Lyrics)_Monday.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gracias por Nada",
+      "artist": "Reik",
+      "has_synced": false,
+      "path": "select/05_Gracias_por_Nada_Reik.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "GRACIAS POR NADA",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/06_GRACIAS_POR_NADA_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GRACIAS POR NADA",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/07_GRACIAS_POR_NADA_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gracias Por Nada",
+      "artist": "Jordano",
+      "has_synced": true,
+      "path": "select/08_Gracias_Por_Nada_Jordano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gracias por Nada (Video Oficial)",
+      "artist": "Reik",
+      "has_synced": true,
+      "path": "select/09_Gracias_por_Nada_(Video_Oficial)_Reik.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "GRACIAS POR NADA",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/10_GRACIAS_POR_NADA_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "GRACIAS POR NADA [Explicit]",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/11_GRACIAS_POR_NADA_[Explicit]_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "GRACIAS POR NADA [Explicit]",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/12_GRACIAS_POR_NADA_[Explicit]_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gracias por nada",
+      "artist": "La Cabra Mecánica",
+      "has_synced": false,
+      "path": "select/13_Gracias_por_nada_La_Cabra_Mecánica.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "GRACIAS POR NADA Explicit",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/14_GRACIAS_POR_NADA_Explicit_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "GRACIAS POR NADA",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/15_GRACIAS_POR_NADA_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GRACIAS POR NADA",
+      "artist": "Bad Bunny",
+      "has_synced": false,
+      "path": "select/pl_01_GRACIAS_POR_NADA_Bad_Bunny.txt"
+    }
+  ]
+}
